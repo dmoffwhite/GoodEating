@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoodEating</string>
+    <string name="slogan">Come bien, siéntete bien. ¡Descubre nuestra variedad de opciones saludables!</string>
+    <string name="login">INICIAR SESIÓN</string>
+    <string name="register">CREAR CUENTA</string>
+    <string name="google_sign_up">Registrarse con Google</string>
+    <string name="google_sign_in">iniciar Sesión con Google</string>
+    <string name="inicio_text">Comida sana en un click!</string>
+</resources>

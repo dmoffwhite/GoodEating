@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185165685259",
+    "project_id": "delivery-app-57b57",
+    "storage_bucket": "delivery-app-57b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185165685259:android:ff66c54bf1565771241d0e",
+        "android_client_info": {
+          "package_name": "com.example.goodeating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185165685259-h9n17jtfuaq49cer1fcccgbqohro0tgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdKr30oNIJ1gwffbwjQX2uj-EQt-yV490"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185165685259-h9n17jtfuaq49cer1fcccgbqohro0tgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
